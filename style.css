@@ -1,0 +1,80 @@
+.h{
+   background-color: azure;
+   margin: 30px;
+   padding: 10px;
+   text-align: center;
+   border: 2px solid black;
+
+}
+.ph-box{
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    gap:10px;
+    font-weight: bolder;
+}
+.ph14{
+    background-color:#4b0082 ;
+    height: 40px;width: 500px;
+}
+.ph13{
+    background-color:#9900cc;
+    height: 40px;width: 500px;
+}
+.ph12{
+    background-color:#6600cc;
+    height: 40px;width: 500px;
+}
+.ph11{
+    background-color:#0000cc;
+    height: 40px;width: 500px;
+}
+.ph10{
+    background-color:#0066cc;
+    height: 40px;width: 500px;
+}
+.ph9{
+    background-color:#009999;
+    height: 40px;width: 500px;
+}
+.ph8{
+    background-color:#009933;
+    height: 40px;width: 500px;
+}
+.ph7{
+    background-color:#00cc44 ;
+    height: 40px;width: 500px;
+}
+.ph6{
+    background-color:#ffff00 ;
+     height: 40px;width: 500px;
+}
+.ph5{
+    background-color:#ffcc00 ;
+     height: 40px;width: 500px;
+}
+.ph4{
+    background-color:#ff9900 ;
+     height: 40px;width: 500px;
+}
+.ph3{
+    background-color:#ff6600;
+     height: 40px;width: 500px;
+}
+.ph2{
+    background-color:#ff4d4d;
+     height: 40px;width: 500px;
+}
+.ph1{
+    background-color:#ff0000;
+     height: 40px;width: 500px;
+}
+.ph0{
+    background-color:#e60000 ;
+     height: 40px;width: 500px;
+}
